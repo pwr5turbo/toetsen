@@ -1,0 +1,37 @@
+#toevoegen
+{
+    position: fixed;
+    width: 50%;
+    height: 60vh;
+    top: 20vh; 
+    left: 25%;
+    background-color: purple;
+    display: none;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#check{
+    border: solid 2px red;
+    color: red;
+    background-color: black;
+    display: none;
+}
+
+#artistTable{
+    background-color: palevioletred;
+    width: 80%;
+    margin-left: 10%;
+}
+
+a{
+    color: white;
+}
+table{
+    color: white;
+}
+td{
+    text-align: center;
+}
